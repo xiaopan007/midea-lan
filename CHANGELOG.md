@@ -1,5 +1,13 @@
 # Changelog
 
+## [2026.8.1](https://github.com/xiaopan007/midea-lan/compare/midea-lan-v2026.8.0...midea-lan-v2026.8.1) (2026-10-13)
+
+
+### Bug Fixes
+
+* **ci:** avoid PR title script injection ([#1](https://github.com/xiaopan007/midea-lan/issues/1)) ([45c3844](https://github.com/xiaopan007/midea-lan/commit/45c3844afca20c79f4acae586bca0866b7b56f01))
+* **ci:** handle optional workflow secrets ([#2](https://github.com/xiaopan007/midea-lan/issues/2)) ([302d437](https://github.com/xiaopan007/midea-lan/commit/302d43781486261dae98ce216d8202bd0bdb0ebd))
+
 ## [2026.8.0](https://github.com/wuwentao/midea-lan/compare/midea-lan-v2026.7.0...midea-lan-v2026.8.0) (2026-08-12)
 
 
